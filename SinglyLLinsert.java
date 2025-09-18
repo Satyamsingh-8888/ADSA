@@ -1,3 +1,4 @@
+//INSERTION CODE
 public class SinglyLL{
     public static class Node{
         int data;
@@ -73,5 +74,6 @@ public class SinglyLL{
         ll.print();
     }
 }
+
 
 
